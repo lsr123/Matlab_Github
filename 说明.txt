@@ -1,0 +1,3 @@
+aircraft_fixd.slx为常规固定翼的纵向仿真。气动模型Tornado估算。
+初步实现了高度和速度的控制
+
